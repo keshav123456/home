@@ -1,7 +1,5 @@
 # Misinformation, Perspectives and a Chrome extension
 
-Tags: Projects
-
 ### **What is the problem?**
 
 ---

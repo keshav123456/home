@@ -1,7 +1,5 @@
 # Is Nuance a blocker to Progress?
 
-Tags: Short Essays
-
 It’s fairly undeniable that the problems we face in society these days are increasing complex, with multiple, reasonable perspectives and endless trade-offs.
 
 A natural conclusion to reach from this, is that resolving these problems in an effective way, requires paying attention to the details, taking care to find the right balance among the trade-offs, having a **nuanced** approach.

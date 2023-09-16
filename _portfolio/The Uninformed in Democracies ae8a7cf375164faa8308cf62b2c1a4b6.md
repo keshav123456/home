@@ -1,7 +1,5 @@
 # The Uninformed in Democracies
 
-Tags: Short Essays
-
 I came across this [study](https://www.princeton.edu/news/2011/12/15/less-knowledge-more-power-uninformed-can-be-vital-democracy-study-finds) recently, while looking into studies about misinformation. It looks at what could potentially be the right percentage of **uniformed** population to make the **right** decision as a group. While this study is more than 10 years old, the rise of polarised politics and (especially scientific) misinformation on social media really brings to light the issue of consensus - as we face this ongoing struggle to communicate science to the greater public, whether it be vaccines or climate change.
 
 The word **uninformed** tends to invoke strong reactions in people. Whether it be disdain for the lack of knowledge, or an anger evoked due to feeling lesser, or spoken down to, being uninformed isn’t seen as valuable in any shape or form. It’s seen as laziness, the lack of interest in (to others at least) what might be a very important part of society. It’s much rather seen as preferable to be knowledgeable and make the decision individually.

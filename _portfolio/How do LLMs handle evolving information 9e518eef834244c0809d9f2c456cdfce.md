@@ -1,7 +1,5 @@
 # How do LLMs handle evolving information?
 
-Tags: Short Essays
-
 *I chanced upon a niche issue about version upgrades in chrome extensions, but started wondering what will happen as our society evolves (without a reliable change-log..)*
 
 ### What is the issue?
