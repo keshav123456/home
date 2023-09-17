@@ -1,7 +1,10 @@
-# Misinformation, Perspectives and a Chrome extension
+---
+title: " Misinformation, Perspectives and a Chrome extension"
+excerpt: "Can we reduce polarisation in the content we read and gain a better perspective simply by forcing ourselves to read multiple sources?"
+collection: portfolio
+---
 
 ### **What is the problem?**
-
 ---
 
 With the rise of misinformation, fake news, and generally polarised content online - it’s become harder and harder to trust what we read. There’s often always a slight bias, a slight differing word choice, if not blatant one which tries to influence the reader - unintentionally or not. This can take a far more subtle form than the obvious examples we hear about, it isn’t always about somebody claiming vaccines cause autism, it can be as subtle as framing a political decision either negatively/positively, it can be a seemingly harmless ‘story’ told about a migrant stealing a job, with no proof it happened… 

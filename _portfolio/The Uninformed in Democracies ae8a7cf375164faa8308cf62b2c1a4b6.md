@@ -1,4 +1,8 @@
-# The Uninformed in Democracies
+---
+title: "The Uninformed in Democracies"
+excerpt: "Perhaps striving to know the exact details of every issue faced in the world today isn't the best.."
+collection: portfolio
+---
 
 I came across this [study](https://www.princeton.edu/news/2011/12/15/less-knowledge-more-power-uninformed-can-be-vital-democracy-study-finds) recently, while looking into studies about misinformation. It looks at what could potentially be the right percentage of **uniformed** population to make the **right** decision as a group. While this study is more than 10 years old, the rise of polarised politics and (especially scientific) misinformation on social media really brings to light the issue of consensus - as we face this ongoing struggle to communicate science to the greater public, whether it be vaccines or climate change.
 

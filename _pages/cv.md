@@ -24,8 +24,22 @@ Startups
   * Tech startup tackling food waste with a hardware device, which tracked food wastage and helped provide detailed reports. 
   * Heavily involved in prototyping and developing the product and leading the technical team. Helped raise ~700,000 GBP and deploy it in 15+ clients (Major Airlines & Hotel Chains). Left for university, but the company is running, and growing post-covid. 
 
-Research
+Internships 
 ======
+* UNIVERSITY OF CAMBRIDGE |Research Intern
+* July 2020 – Sept 2020 | Cambridge, UK
+  * Researching low cost alternatives to GPS in forested areas where consumer grade GPS fails to acquire signal
+  * Exploring VSLAM technologies using cheaper intel cameras/phone cameras and also IMU sensor data
+* NINJAVAN | Software Engineering Intern
+ 
+• Worked on the cloud backend platforms – the Microservices underpinning the
+different apps supporting the logistics flow (delivering 1 million+ parcels daily).
+• Also worked on Kafka monitoring tools.
+DENTSU AEGIS | Data Science Intern
+June 2017 – July 2017 | Singapore
+• Focused on using NLP to automatically extract the key subject matter and
+opinion from web scraped articles for market analysis.
+
 * Summer 2020 : Research Internship @**Cambridge UC Trees Project**
   * [Research on low cost GPS alternatives](https://www.notion.so/UROP-2020-UCTrees-1520fb6796304e8bb5307dcbde2e1f7a?pvs=21)
 

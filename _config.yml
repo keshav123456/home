@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Keshav"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "London"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "keshav.sivakumar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

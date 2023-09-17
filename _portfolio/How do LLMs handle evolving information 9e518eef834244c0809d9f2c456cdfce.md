@@ -1,12 +1,8 @@
 ---
 title: "How do LLMs handle evolving information?"
-excerpt: ""
+excerpt: "I chanced upon a niche issue about version upgrades in chrome extensions, but started wondering what will happen as our society evolves (without a reliable change-log..)"
 collection: portfolio
 ---
-
-# How do LLMs handle evolving information?
-
-*I chanced upon a niche issue about version upgrades in chrome extensions, but started wondering what will happen as our society evolves (without a reliable change-log..)*
 
 ### What is the issue?
 
