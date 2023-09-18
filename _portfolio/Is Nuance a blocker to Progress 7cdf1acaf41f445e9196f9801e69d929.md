@@ -1,6 +1,6 @@
 ---
 title: "Is Nuance a blocker to Progress?"
-excerpt: "Is it worth spending the downsides associated with finding the precise solution that's best for everyone"
+excerpt: "Is it worth spending the downsides associated with finding the precise solution that's best for everyone?"
 collection: portfolio
 ---
 
