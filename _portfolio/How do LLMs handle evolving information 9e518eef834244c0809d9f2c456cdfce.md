@@ -14,7 +14,7 @@ I almost immediately ran into an issue with Chrome manifest versions. In manifes
 
 When asking when to use which version - it does not explicitly give the answer that one is replacing the other - in fact it says they are “used in different contents”
 
-![Untitled](How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled.png)
+![Untitled](https://keshav123456.github.io/images/How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled.png)
 
 ### Does it ‘know’ the right answer? Can we guide it?
 
@@ -22,9 +22,9 @@ When asking when to use which version - it does not explicitly give the answer t
 
 Yet we see that if specified with the right prompts, the information that one replaces the other, AND the information that we cannot use chrome.action with manifest V2 clearly exists, and is understood.
 
-![Untitled](How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%201.png)
+![Untitled](https://keshav123456.github.io/images/How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%201.png)
 
-![Untitled](How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%202.png)
+![Untitled](https://keshav123456.github.io/images/How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%202.png)
 
 The understanding that this knowledge exists, means the task of handling this evolving information can probably be done in one of two ways. The first is obviously through better prompt engineering, trying to find the right terms and prompts that make sure the code produced is consistent. However, from my attempts, this only works when we give it very specific versions and constraints to work with, requiring guardrails from domain specific knowledge/reading through the chrome extension documentation.The second would be to use agents to orchestrate the process, which is probably the way forward, as we could configure it to provide these guardrails, by checking the code and keeping the versions used in memory as the LLM provides the code necessary.
 
@@ -38,9 +38,9 @@ They’re already being used by students all over the globe to help write essays
 
 We can see an example below - when asked to write a summary without a specific time period - it gives a very neutral answer on gay marriage, simply stating the arguments on either side (regardless of how valid or accepted they might be). However, when given a time period, the language changes to be more accepting of Gay marriage - and rather than phrasing it as an issue of debate, starts from a position that it is accepted, and talks about the struggle for a more inclusive society.
 
-![Untitled](How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%203.png)
+![Untitled](https://keshav123456.github.io/images/How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%203.png)
 
-![Untitled](How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%204.png)
+![Untitled](https://keshav123456.github.io/images/How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%204.png)
 
 We can’t really use agents to cross check the opinions voiced by LLMs, nor can we really track how they change over time - *unlike chrome manifest upgrades, we don’t have a perfect change-log of societal beliefs over time.. how will LLMs evolve as society does?*
 
@@ -52,4 +52,4 @@ We can’t really use agents to cross check the opinions voiced by LLMs, nor can
 
 And of course, during some of my prompt engineering tests, it started [hallucinating dates](https://developer.chrome.com/blog/mv2-transition/), which is probably the most common of its hallucinations - but somehow combined that with contradicting itself in the same answer..
 
-![Untitled](How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%205.png)
+![Untitled](https://keshav123456.github.io/images/How%20do%20LLMs%20handle%20evolving%20information%209e518eef834244c0809d9f2c456cdfce/Untitled%205.png)
